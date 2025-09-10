@@ -1,5 +1,5 @@
 ---
-name: main_talk
+name: main talk
 about: Propose a main talk for the monthly meetup
 title: "[TBC] Speaker | Title"
 labels: ''
@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 - [ ] Contacted
- - [ ] Confirmed
- - [ ] RSVP yes
- - [ ] Reminder email 
- - [ ] Arrived
- - [ ] Slides published
+- [ ] Confirmed
+- [ ] RSVP yes
+- [ ] Reminder email 
+- [ ] Arrived
+- [ ] Slides published
