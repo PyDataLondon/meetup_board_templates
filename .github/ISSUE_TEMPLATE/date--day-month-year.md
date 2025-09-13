@@ -2,7 +2,7 @@
 name: 'Date: day month year'
 about: Template for planning monthly meetups
 title: 'Date: day month year'
-labels: ''
+labels: 'release management'
 assignees: ''
 
 ---
