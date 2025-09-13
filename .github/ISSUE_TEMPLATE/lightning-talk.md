@@ -2,7 +2,7 @@
 name: lightning talk
 about: Template for a lightning talk
 title: "[TBC] Speaker | Title"
-labels: ''
+labels: 'lightning'
 assignees: ''
 
 ---
