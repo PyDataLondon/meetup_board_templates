@@ -6,6 +6,20 @@ labels: ''
 assignees: ''
 
 ---
+### Lightning talks (5 minutes, no Q&A)
+**Speaker:**
+
+**Title:**
+
+**Abstract:**
+
+**Recording consent:**
+
+**Publishing slides consent:**
+
+**Availability:**
+
+**Special requirements:** 
 
 - [ ] Contacted
 - [ ] Confirmed
