@@ -2,7 +2,7 @@
 name: main talk
 about: Propose a main talk for the monthly meetup
 title: "[TBC] Speaker | Title"
-labels: ''
+labels: 'main talk'
 assignees: ''
 
 ---
